@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
-<h1 align="center">Hi 👋, I'm VEDANG POTE</h1>
-<h3 align="center">I AM A STUDENT AT IIT MADRAS</h3>
+<h1 align="center">HI 👋, I'M VEDANG POTE</h1>
+<h3 align="center">FIRST YEAR BTECH IN CSE FROM IIT MADRAS</h3>
 <img align="right" alt="Coding" width="400" src=https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif
 
 - 🌱 I’m currently learning **C++ AND PYTHON**
