@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src=https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif
 
 - 🌱 I’m currently learning **Computer Science**
-
 - 📫 How to reach me **vedang.pote2703@gmail.com**
-
 - ⚡ Fun fact **I AM A STUDENT**
 
 <h3 align="left">Connect with me:</h3>
