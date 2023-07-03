@@ -1,9 +1,9 @@
 ![MasterHead](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
 <h1 align="center">HI 👋, I'M VEDANG POTE</h1>
-<h3 align="center">SECOND YEAR BTECH IN CSE FROM IIT MADRAS</h3>
+<h3 align="center">Third Year Btech In IIT Madras</h3>
 <img align="right" alt="Coding" width="400" src=https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif
 
-- 🌱 I’m currently learning **C++ AND DSA**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **vedang.pote2703@gmail.com**
 
